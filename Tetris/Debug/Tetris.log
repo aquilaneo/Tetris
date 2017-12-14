@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\datasync\vs_projects\c++\tetris\tetris\MyForm.h(240): warning C4091: 'static ': 変数が何も宣言されていないときは、'Tetris::Game' の左辺を無視します。
+  Tetris.vcxproj -> C:\DataSync\VS_Projects\C++\Tetris\Debug\Tetris.exe
